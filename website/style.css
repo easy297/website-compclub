@@ -1,0 +1,34 @@
+.rr {
+    border: 5px solid rgb(12, 253, 253); border-radius: 20px; padding: 5px;}
+    .rightpic {
+        float: right; /* Выравнивание по правому краю */
+        margin: 0 0 500px 5px; /* Отступы вокруг фотографии */
+       }
+body { margin: 0;
+       padding: 0;
+       background: black;
+     }
+     .rightpic {
+        float: right; /* Выравнивание по правому краю */
+        margin: 0 0 5px 5px; /* Отступы вокруг фотографии */
+       }
+
+   }
+.price {
+    border: aqua 0.5px;
+}
+.image { 
+    border: aqua 30px;
+}
+.reggnav-link {
+    border: 5px;
+    background-color: blue;
+}
+.text {
+    border: 10px;
+}
+.object-contain-h-full-w-full {
+    border: 3px solid #495152;
+    border-radius: 10px;
+   
+}
